@@ -37,8 +37,8 @@ kini version
 ... which should print something like:
 
 ```bash
-kini version v0.8.6 (go1.26.1 linux/amd64)
-kind version v0.31.0 (default image kindest/node:v1.35.0@sha256:452d707d4862f52530247495d180205e029056831160e22870e37e3f6c1ac31f)
+kini version v0.9.1 (go1.27.1 linux/amd64)
+kind version v0.33.0 (default image kindest/node:v1.37.0@sha256:a1ed56cfb0e7b93589bdf97c8cd566405a265939e3620fc4f5de89adff580ae5)
 ```
 
 ## Prepare infrastructure
